@@ -44,7 +44,7 @@
 |34|Unique Paths|LC|https://leetcode.com/problems/unique-paths|
 |35|House Robber|LC|https://leetcode.com/problems/house-robber|
 
-
+---
 
 # Recursion - 40 Problems (Syllabus Part 4)
 **Pure Recursion Concepts • No Arrays/Linked Lists • Build Strong Foundation**
@@ -189,6 +189,7 @@
 |60|Sliding Window Median|LC|https://leetcode.com/problems/sliding-window-median/|Heap|Hard|
 
 ---
+
 **Total: 60 Problems ✓**
 **Solve Order: Easy → Medium → Hard**
 **Next File: searching.md**
@@ -245,6 +246,7 @@
 |35|Russian Doll Envelopes|LC|https://leetcode.com/problems/russian-doll-envelopes/|Binary Search|Hard|
 
 ---
+
 **Total: 35 Problems ✓**
 **Solve Order: Easy → Medium → Hard**
 **Next File: sorting.md**
@@ -311,6 +313,7 @@
 |45|Remove Duplicate Letters|LC|https://leetcode.com/problems/remove-duplicate-letters/|Stack+Greedy|Hard|
 
 ---
+
 **Total: 45 Problems ✓**
 **Solve Order: Easy → Medium → Hard**
 **Next File: matrix.md**
@@ -362,6 +365,7 @@
 |30|Dungeon Game|LC|https://leetcode.com/problems/dungeon-game/|DP|Hard|
 
 ---
+
 **Total: 30 Problems ✓**
 **Solve Order: Easy → Medium → Hard**
 **Next File: hashing.md**
@@ -433,6 +437,7 @@
 |50|Count Distinct Substrings|GFG|https://practice.geeksforgeeks.org/problems/count-distinct-substrings/1|HashMap+Suffix|Hard|
 
 ---
+
 **Total: 50 Problems ✓**
 **Solve Order: Easy → Medium → Hard**
 **Next File: strings.md**
@@ -508,6 +513,7 @@
 |55|Longest Common Substring (Optimized)|GFG|https://practice.geeksforgeeks.org/problems/longest-common-substring/1|Suffix Tree|Hard|
 
 ---
+
 **Total: 55 Problems ✓**
 **Solve Order: Easy → Medium → Hard**
 **Next File: linkedList.md**
@@ -579,6 +585,7 @@
 |50|Maximum Sum LL without 3 Consecutive|GFG|https://practice.geeksforgeeks.org/problems/maximum-sum-linked-list-such-that-no-three-nodes-are-adjacent/1|DP|Hard|
 
 ---
+
 **Total: 50 Problems ✓**
 **Solve Order: Easy → Medium → Hard**
 **Next File: stack.md**
@@ -635,6 +642,7 @@
 |35|Trapping Rain Water II|LC|https://leetcode.com/problems/trapping-rain-water-ii/|Priority Queue|Hard|
 
 ---
+
 **Total: 35 Problems ✓**
 **Solve Order: Easy → Medium → Hard**
 **Next File: queue.md**
@@ -681,6 +689,7 @@
 |25|Shortest Bridge|LC|https://leetcode.com/problems/shortest-bridge/|Multi-source BFS|Hard|
 
 ---
+
 **Total: 25 Problems ✓**
 **Solve Order: Easy → Medium → Hard**
 **Next File: deque.md**
@@ -722,6 +731,7 @@
 |20|Shortest Path with Alternating Colors|LC|https://leetcode.com/problems/shortest-path-with-alternating-colors/|BFS Deque|Hard|
 
 ---
+
 **Total: 20 Problems ✓**
 **Solve Order: Easy → Medium → Hard**
 **Next File: trees.md**
@@ -803,6 +813,7 @@
 |60|Maximum Sum Path in Two Arrays|GFG|https://practice.geeksforgeeks.org/problems/maximum-sum-path-in-two-arrays/1|Merge Trees|Hard|
 
 ---
+
 **Total: 60 Problems ✓**
 **Solve Order: Easy → Medium → Hard**
 **Next File: bst.md**
@@ -869,6 +880,7 @@
 |45|Merge Two BSTs|GFG|https://practice.geeksforgeeks.org/problems/merge-two-bsts/1|Inorder Merge|Hard|
 
 ---
+
 **Total: 45 Problems ✓**
 **Solve Order: Easy → Medium → Hard**
 **Next File: heap.md**
@@ -920,6 +932,7 @@
 |30|Shortest Path with Alternating Colors|LC|https://leetcode.com/problems/shortest-path-with-alternating-colors/|BFS Heap|Hard|
 
 ---
+
 **Total: 30 Problems ✓**
 **Solve Order: Easy → Medium → Hard**
 **Next File: graphs.md**
@@ -1001,6 +1014,7 @@
 |60|Graph Valid Tree|LC|https://leetcode.com/problems/graph-valid-tree/|Union Find|Hard|
 
 ---
+
 **Total: 60 Problems ✓**
 **Solve Order: Easy → Medium → Hard**
 **Next File: greedy.md**
@@ -1052,6 +1066,7 @@
 |30|Fractional Knapsack (Multiple Items)|GFG|https://practice.geeksforgeeks.org/problems/fractional-knapsack-with-multiple-constraints/1|Multi-dimensional|Hard|
 
 ---
+
 **Total: 30 Problems ✓**
 **Solve Order: Easy → Medium → Hard**
 **Next File: backtracking.md**
@@ -1098,6 +1113,7 @@
 |25|Wildcard Matching|LC|https://leetcode.com/problems/wildcard-matching/|DP+Backtracking|Hard|
 
 ---
+
 **Total: 25 Problems ✓**
 **Solve Order: Easy → Medium → Hard**
 **Next File: dp.md**
@@ -1194,6 +1210,7 @@
 |75|Minimum Cost For Tickets|LC|https://leetcode.com/problems/minimum-cost-for-tickets/|1D DP|Hard|
 
 ---
+
 **Total: 75 Problems ✓**
 **Solve Order: Easy → Medium → Hard**
 **Next File: trie.md**
@@ -1230,6 +1247,7 @@
 |15|Longest Common Prefix Array|GFG|https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1|Trie Array|Hard|
 
 ---
+
 **Total: 15 Problems ✓**
 **Solve Order: Easy → Medium → Hard**
 
@@ -1265,6 +1283,7 @@
 |15|Range Query on Tree|GFG|https://practice.geeksforgeeks.org/problems/range-queries-on-tree/1|HLD+SegTree|Hard|
 
 ---
+
 **Total: 15 Problems ✓**
 **Solve Order: Easy → Medium → Hard**
 **Next File: disjointSet.md**
