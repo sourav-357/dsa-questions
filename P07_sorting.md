@@ -12,7 +12,7 @@
 |6 ✔ |Sort an Array of 0s, 1s, 2s|LC|https://leetcode.com/problems/sort-colors/|Dutch National|Easy|
 |7 ✔ |Check if Array is Sorted|GFG|https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1|Scanning|Easy|
 |8 ❌ |Minimum Distance Between Largest and Smallest|LC|https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/|Sorting|Easy|
-|9 ❌ |Sort Array by First and Last Digit|GFG|https://practice.geeksforgeeks.org/problems/sort-array-by-first-and-last-digit/1|Custom Sort|Easy|
+|9 ✔ |Sort Array by First and Last Digit|LC|https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/|Custom Sort|Easy|
 |10 ❌ |Sort Binary Array|GFG|https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/1|Partitioning|Easy|
 |11|Relative Sorting|GFG|https://practice.geeksforgeeks.org/problems/relative-sorting/1|Custom Sort|Easy|
 |12|Sort Elements by Frequency|GFG|https://practice.geeksforgeeks.org/problems/sort-elements-by-frequency/1|Hashing+Sort|Easy|
