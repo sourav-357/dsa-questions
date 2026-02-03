@@ -14,11 +14,11 @@
 |8 ✔ |Minimum Distance Between Largest and Smallest|LC|https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/|Sorting|Easy|
 |9 ✔ |Sort Array by First and Last Digit|LC|https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/|Custom Sort|Easy|
 |10 ✔ |Sort Binary Array|GFG|https://www.geeksforgeeks.org/problems/binary-array-sorting-1587115620/1|Partitioning|Easy|
-|11 ❌ |Relative Sorting|GFG|https://practice.geeksforgeeks.org/problems/relative-sorting/1|Custom Sort|Easy|
+|11 ✔ |Relative Sorting|GFG|https://practice.geeksforgeeks.org/problems/relative-sorting/1|Custom Sort|Easy|
 |12 ❌ |Sort Elements by Frequency|GFG|https://practice.geeksforgeeks.org/problems/sort-elements-by-frequency/1|Hashing+Sort|Easy|
-|13|Merge Two Sorted Arrays|GFG|https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1|Merge|Easy|
-|14|Kth Smallest Element|GFG|https://practice.geeksforgeeks.org/problems/kth-smallest-element/1|QuickSelect|Easy|
-|15|Chocolate Distribution|GFG|https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0|Sorting|Easy|
+|13 ❌ |Merge Two Sorted Arrays|GFG|https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1|Merge|Easy|
+|14 ❌ |Kth Smallest Element|GFG|https://practice.geeksforgeeks.org/problems/kth-smallest-element/1|QuickSelect|Easy|
+|15 ❌ |Chocolate Distribution|GFG|https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0|Sorting|Easy|
 |16|Sort Array with 3 Types|GFG|https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/1|Dutch National|Easy|
 |17|Next Permutation|LC|https://leetcode.com/problems/next-permutation/|Permutation|Easy|
 |18|Pascal's Triangle|LC|https://leetcode.com/problems/pascals-triangle/|Sorting Pattern|Easy|
