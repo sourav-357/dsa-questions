@@ -26,7 +26,7 @@
 ## Medium (22 Problems)
 | # | Problem | Platform | Link | Pattern | Difficulty |
 |---|---------|----------|------|---------|------------|
-|19|Merge Sort|GFG|https://practice.geeksforgeeks.org/problems/merge-sort/1|Divide Conquer|Medium|
+|19 ✔ |Merge Sort|GFG|https://practice.geeksforgeeks.org/problems/merge-sort/1|Divide Conquer|Medium|
 |20|Quick Sort|GFG|https://practice.geeksforgeeks.org/problems/quick-sort/1|Partitioning|Medium|
 |21|Count Inversions|GFG|https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1|Merge Sort|Medium|
 |22|Kth Largest Element|LC|https://leetcode.com/problems/kth-largest-element-in-an-array/|QuickSelect|Medium|
