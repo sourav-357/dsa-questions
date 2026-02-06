@@ -31,7 +31,7 @@
 |21 ✔ |Count Inversions|GFG|https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1|Merge Sort|Medium|
 |22 ✔ |Kth Largest Element|LC|https://leetcode.com/problems/kth-largest-element-in-an-array/|QuickSelect|Medium|
 |23 ✔ |Merge Intervals|LC|https://leetcode.com/problems/merge-intervals/|Sorting|Medium|
-|24|Meeting Rooms II|LC|https://leetcode.com/problems/meeting-rooms-ii/|Priority Queue|Medium|
+|24|Meeting Rooms II|GFG|https://www.geeksforgeeks.org/problems/attend-all-meetings-ii/1|Priority Queue|Medium|
 |25|Sort List|LC|https://leetcode.com/problems/sort-list/|Merge Sort|Medium|
 |26|Wiggle Sort II|LC|https://leetcode.com/problems/wiggle-sort-ii/|Two Pointers|Medium|
 |27|Find K Closest Elements|LC|https://leetcode.com/problems/find-k-closest-elements/|Binary Search|Medium|
