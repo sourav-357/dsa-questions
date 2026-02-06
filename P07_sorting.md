@@ -29,7 +29,7 @@
 |19 ✔ |Merge Sort|GFG|https://practice.geeksforgeeks.org/problems/merge-sort/1|Divide Conquer|Medium|
 |20 ✔ |Quick Sort|GFG|https://practice.geeksforgeeks.org/problems/quick-sort/1|Partitioning|Medium|
 |21 ✔ |Count Inversions|GFG|https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1|Merge Sort|Medium|
-|22|Kth Largest Element|LC|https://leetcode.com/problems/kth-largest-element-in-an-array/|QuickSelect|Medium|
+|22 ✔ |Kth Largest Element|LC|https://leetcode.com/problems/kth-largest-element-in-an-array/|QuickSelect|Medium|
 |23|Merge Intervals|LC|https://leetcode.com/problems/merge-intervals/|Sorting|Medium|
 |24|Meeting Rooms II|LC|https://leetcode.com/problems/meeting-rooms-ii/|Priority Queue|Medium|
 |25|Sort List|LC|https://leetcode.com/problems/sort-list/|Merge Sort|Medium|
